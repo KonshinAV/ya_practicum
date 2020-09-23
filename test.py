@@ -1,1 +1,2 @@
-print ('Test')
+def p_print(data):
+    print(data)
